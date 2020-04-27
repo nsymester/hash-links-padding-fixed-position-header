@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: 14px Georgia, serif;
+}
+#page-wrap {
+  width: 500px;
+  margin: 200px auto; /* tb rl */
+}
+p,
+ul,
+h1 {
+  margin: 0 0 20px; /* t rl b */
+}
+p {
+  line-height: 2;
+}
